@@ -1,4 +1,12 @@
 ### Hi there 👋
+ 
+ 🔭  This readme file will be a work in progress
+ 🌱  because the it is currently being germinated.
+ 👯  We are looking for peer assistance and fellow
+ 🤔  Computer Scientists / Hobbiests / Idealists
+ 💬  To Join our @CryptoNightCANADA TEAM PROJECTS.
+ 📫  London, Ontario, Canada; Digital Asset Management  
+ ⚡   & Cryptocurrency / Blockchain / Code / Math Specialists 
 
 <!--
 **CryptonightCanada/CRYPTONIGHTCANADA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
